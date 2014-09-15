@@ -1,4 +1,4 @@
-n = 15
+n = raw_input("How high do you want to go? ")
 #my_input = raw_input("How high do you want to count?")
 #print "Fizz buzz counting up to " + str(n)
 
